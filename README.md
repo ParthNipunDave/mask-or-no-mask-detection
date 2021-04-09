@@ -10,7 +10,7 @@ This Repository contains code of deployement.
 
 
 ## Output Screen
-<img src="static/image/output/temp.png/>
+<img src="static/image/output/temp.png/">
           
 ## How I created this project and deployed it
 
