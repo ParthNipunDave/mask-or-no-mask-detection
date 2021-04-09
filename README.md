@@ -6,7 +6,7 @@ In this time of corona, it is recommended to where mask as precautionary messure
 This Repository contains code of deployement.
 
 ## Input Screen
-
+<img src="static/image/input/maksssksksss758.png"/>
 
 
 ## Output Screen
