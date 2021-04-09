@@ -3,7 +3,7 @@ A Tensorflow Object Detection API based application using Faster RCNN architectu
 
 In this time of corona, it is recommended to where mask as precautionary messure. But many people seem to not wear mask.
 <br/> This Mask detection application will help us to detect whether or not a person has wore a mask.
-This Repository contains code of deployement.
+This Repository contains code of deployement.<br>
 <a href="https://drive.google.com/drive/folders/1vGN61pqZ1MKpbTL4cVYMCUQMBzsDfA7i?usp=sharing">Trained Model</a>
 ## Input Screen
 <img src="static/image/input/maksssksksss758.png"/>
