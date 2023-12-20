@@ -30,5 +30,5 @@ This Repository contains code of deployement.<br>
 
 <ol>
 <li>It takes png image as input from user</li>
-<li>Then that image is passed for inferencing and detection takes places. Once the image is classified and detected into either of any class our app returns a downloadable attachment which contains our ouput image</li>
+<li>Then that image is passed for inferencing and detection takes places. Once the image is classified and detected into either of any class this app returns a downloadable attachment which contains our ouput image</li>
 </ol>
